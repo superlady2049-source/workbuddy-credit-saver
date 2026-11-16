@@ -18,9 +18,16 @@ git clone https://github.com/superlady2049-source/workbuddy-credit-saver ~/.work
 
 ## 说明
 
-- 核心在 `SKILL.md`，细则在 `references/`，需要时才读。
+- 核心在 `SKILL.md`，细则在 `references/`，模板在 `templates/`，需要时才读。
 - 官方依据与「环境实测」说明见 `references/sources.md`；积分数字和功能以你的界面和官方文档为准，效果没有对照实验。
 - Claude Code 用户请用 claude-usage-limit-fix。
+
+## 版本历史
+
+- v1.0.0：初版。
+- v1.1.0：新增触发/不触发条件、4 行默认输出、异常与降级表、证据分级、FAQ、示例、模板；核心瘦身。
+
+效果尚未被证明，初步实测见 SKILL.md。
 
 ## 作者
 
