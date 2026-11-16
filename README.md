@@ -32,4 +32,8 @@ git clone https://github.com/superlady2049-source/workbuddy-credit-saver ~/.work
 
 <img src="assets/lark-qr.png" width="220" alt="KAI LI 飞书二维码">
 
+扫码添加企业微信：
+
+<img src="assets/wecom-qr.png" width="220" alt="KAI LI 企业微信二维码">
+
 MIT License
