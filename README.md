@@ -28,4 +28,8 @@ git clone https://github.com/superlady2049-source/workbuddy-credit-saver ~/.work
 
 邮箱：superlady2049@gmail.com
 
+扫码添加飞书联系人：
+
+<img src="assets/lark-qr.png" width="220" alt="KAI LI 飞书二维码">
+
 MIT License

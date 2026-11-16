@@ -129,4 +129,4 @@ description: WorkBuddy 积分用得太快、任务越聊越贵、长会话烧积
 
 ## 关于作者
 
-KAI LI，AI 经营改善顾问（AI Operations Improvement Consultant）。原版技能 claude-usage-limit-fix 作者，本技能为其 WorkBuddy 适配版。交流：superlady2049@gmail.com
+KAI LI，AI 经营改善顾问（AI Operations Improvement Consultant）。原版技能 claude-usage-limit-fix 作者，本技能为其 WorkBuddy 适配版。交流：superlady2049@gmail.com；飞书二维码见 `assets/lark-qr.png`。
