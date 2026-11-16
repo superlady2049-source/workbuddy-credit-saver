@@ -26,6 +26,7 @@ git clone https://github.com/superlady2049-source/workbuddy-credit-saver ~/.work
 
 - v1.0.0：初版。
 - v1.1.0：新增触发/不触发条件、4 行默认输出、异常与降级表、证据分级、FAQ、示例、模板；核心瘦身。
+- v1.2.0：七类浪费表重排为八类，新增「怎么发现」列和第八类「经验没用起来」；精简每轮常驻的 SKILL.md 正文，会话卫生与实测数字、选模型、异常与降级挪到 references/；新增 overview.md。
 
 效果尚未被证明，初步实测见 SKILL.md。
 
